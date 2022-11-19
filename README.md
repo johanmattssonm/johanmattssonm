@@ -5,7 +5,8 @@ Hi. I am the developer and maintainer of Birdfont but I code on many other proje
 ## Contact:
 
 johan.mattsson.m@gmail.com<br>
-<https://twitter.com/Birdfont>
+<https://twitter.com/Birdfont><br>
+<https://typo.social/@birdfont>
 
 ## Birdfont
 

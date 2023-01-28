@@ -12,3 +12,6 @@ johan.mattsson.m@gmail.com<br>
 
 You can find downloads and tutorials here: <https://birdfont.org>
 
+## More About Me
+
+<https://birdfont.org/johanmattsson.php>
